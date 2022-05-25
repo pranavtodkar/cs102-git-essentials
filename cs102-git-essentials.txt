@@ -2,4 +2,4 @@ git add - put files from untracked  to staging area
 git status - check files in staging area and untracked files
 git log - check local commits
 git commit - commit all changes made in staging area
-git clone - copy new
+git clone - copy new repo to local machine
