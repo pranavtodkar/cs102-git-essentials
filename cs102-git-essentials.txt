@@ -3,3 +3,5 @@ git status - check files in staging area and untracked files
 git log - check local commits
 git commit - commit all changes made in staging area
 git clone - copy new repo to local machine
+
+Git is version control system, used for collaboration with team. We had learnt many git commands like git restore, git log, git add etc. We learnt about VS code its use as an IDE, and about its extensions. We learnt about Markdown language. Markdown is language similar to HTML used to write readme files with images, formatted texts. 
